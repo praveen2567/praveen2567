@@ -12,7 +12,7 @@
 
 ## CV
 
-
+[![CV](https://img.shields.io/badge/CV-%230077B5.svg?logo=read-the-docs&logoColor=white)](./MT_Praveen_Kumar_QA_Automation.pdf)
 
 ## 🌐 Reach out to me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtpraveenkumar/)

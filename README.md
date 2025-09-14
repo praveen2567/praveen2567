@@ -23,9 +23,10 @@
 - [**Playwright With JavaScript**](https://github.com/praveen2567/praveen2567-playwright_With_JavaScripts_1)
 - [**PraveenPlaywright**](https://github.com/praveen2567/PraveenPlaywright)
 
-## ☁ Cloud & Certifications
-<!-- Add your certifications here, e.g.: -->
-<!-- [**Azure DevOps Engineer Expert**](#) <br> -->
+## Certifications
+
+[**Prompt Engineering Applications**](https://www.linkedin.com/in/mtpraveenkumar/overlay/1757766562861/single-media-viewer/?profileId=ACoAAEPgbgMBH3ahpxTF6FK3MlGSXkql_ev6OH8)
+
 
 ## 💻 Tech Stack
 <p>

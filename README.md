@@ -10,9 +10,13 @@
 💬 Let's chat about automation strategies, tooling, or anything QA  
 ⚡ Fun fact: I love integrating modern test automation with CI for rapid feedback
 
+## CV
+
+
+
 ## 🌐 Reach out to me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtpraveenkumar/) <br/>
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/praveen2567)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtpraveenkumar/)
+
 
 ## ▶️ Recent Projects & Demos
 - [**SlateSMS E2E Testing**](https://github.com/praveen2567/slatesms-e2e-testing)

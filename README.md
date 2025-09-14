@@ -3,12 +3,12 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💫 About Me
-👋 Hi, I’m Praveen Kumar  
-🔭 I specialize in end-to-end test automation (web & API) with Playwright and Cypress  
-🌱 Currently exploring cloud platforms, DevOps, and CI/CD pipelines  
+👋 Hi, I’m M T Praveen Kumar  
+🔭 Currently crafting automation frameworks with Playwright
+👯 Love collaborating on test automation for web, mobile, and new tools  
 🤝 Open to collaborations in automation, DevOps, and quality engineering  
-💬 Let's chat about automation strategies, tooling, or anything QA  
-⚡ Fun fact: I love integrating modern test automation with CI for rapid feedback
+💬 Always excited to chat about automation hacks, tooling, and testing strategies
+⚡ Fun fact: I enjoy connecting agile practices with automation-first approaches
 
 ## CV
 
@@ -28,7 +28,7 @@
 
 ## Certifications
 
-- [**Prompt Engineering Applications**](https://www.linkedin.com/in/mtpraveenkumar/overlay/1757766562861/single-media-viewer/?profileId=ACoAAEPgbgMBH3ahpxTF6FK3MlGSXkql_ev6OH8)
+[**Prompt Engineering Applications**](https://www.linkedin.com/in/mtpraveenkumar/overlay/1757766562861/single-media-viewer/?profileId=ACoAAEPgbgMBH3ahpxTF6FK3MlGSXkql_ev6OH8)
 
 
 ## 💻 Tech Stack

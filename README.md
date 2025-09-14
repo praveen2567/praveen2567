@@ -19,13 +19,16 @@
 
 
 ## ▶️ Recent Projects & Demos
-- [**SlateSMS E2E Testing**](https://github.com/praveen2567/slatesms-e2e-testing)
-- [**Playwright With JavaScript**](https://github.com/praveen2567/praveen2567-playwright_With_JavaScripts_1)
-- [**PraveenPlaywright**](https://github.com/praveen2567/PraveenPlaywright)
+[**SlateSMS E2E Testing**](https://github.com/praveen2567/slatesms-e2e-testing) <br>
+[**Playwright JavaScript with AI**](https://www.linkedin.com/posts/joecolantonio_devsecops-automationtesting-softwaretesting-activity-7297334363409580033-gYzE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA8dnH4B2FaY6zq62jD8KErL7CWC4huXtgI) <br>
+[**Playwright GitHub Repo**](https://www.youtube.com/watch?app=desktop&v=orWd3b6zqHI) <br>
+[**Playwright**](https://www.linkedin.com/posts/joecolantonio_testautomation-code-performance-activity-6944754650982076416-CZui?utm_source=linkedin_share&utm_medium) <br>
+[**Cypress**](https://www.linkedin.com/posts/joecolantonio_automationtesting-devops-devsecops-activity-7003058089235005440-3JmS?utm_source=share&utm_medium) 
+
 
 ## Certifications
 
-[**Prompt Engineering Applications**](https://www.linkedin.com/in/mtpraveenkumar/overlay/1757766562861/single-media-viewer/?profileId=ACoAAEPgbgMBH3ahpxTF6FK3MlGSXkql_ev6OH8)
+- [**Prompt Engineering Applications**](https://www.linkedin.com/in/mtpraveenkumar/overlay/1757766562861/single-media-viewer/?profileId=ACoAAEPgbgMBH3ahpxTF6FK3MlGSXkql_ev6OH8)
 
 
 ## 💻 Tech Stack

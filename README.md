@@ -11,13 +11,9 @@
 [![CV](https://img.shields.io/badge/CV-%230077B5.svg?logo=CV&logoColor=white)](https://jaykishoreduvvuri-luvoczi.gamma.site/) 
 
 
-## ![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) 
-[**Blogger Profile**](https://www.blogger.com/profile/06939442079028713822)
-
-
 
 ## 🌐 Reach out to me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jay-kishore-duvvuri-712b1a70) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtpraveenkumar/) 
 
 
 

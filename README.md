@@ -11,7 +11,7 @@
 ⚡ Fun fact: I love integrating modern test automation with CI for rapid feedback
 
 ## 🌐 Reach out to me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtpraveenkumar/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mtpraveenkumar/) <br/>
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/praveen2567)  
 
 ## ▶️ Recent Projects & Demos

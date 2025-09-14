@@ -4,7 +4,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 # 💫 About Me
-👋 Hi, I’m Jay Kishore Duvvuri<br>
+👋 Hi, I’m M T Praveen Kumar<br>
 🔭 Currently crafting automation frameworks with Playwright<br> 👯 Love collaborating on test automation for web, mobile, and new tools<br> 🤝 Experimenting with API testing and performance automation using k6.io<br> 🌱 On a journey of learning DevOps, CI/CD, and cloud automation<br> 💬 Always excited to chat about automation hacks, tooling, and testing strategies<br> ⚡ Fun fact: I enjoy connecting agile practices with automation-first approaches
 
 ## CV
@@ -41,17 +41,10 @@
 <p>
  <img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white">
  <img src="https://img.shields.io/badge/Cypress-330F63?style=for-the-badge&logo=cypress&logoColor=white">
- <img src="https://img.shields.io/badge/WebdriverIO-EA4C89?style=for-the-badge&logo=webdriverio&logoColor=white">
- <img src="https://img.shields.io/badge/TestCafe-1877F2?style=for-the-badge&logo=testcafe&logoColor=white">
- <img src="https://img.shields.io/badge/Puppeteer-23E60023?&style=for-the-badge&logo=puppeteer&logoColor=white">
- <img src="https://img.shields.io/badge/WebDriverJs-%23B92B27?&style=for-the-badge&logo=webdriverjs&logoColor=white">
- <img src="https://img.shields.io/badge/Selenium Webdriver-3A76F0?style=for-the-badge&logo=selenium&logoColor=white">
- <img src="https://img.shields.io/badge/Tricentis Tosca-543DE0?style=for-the-badge&logo=tosca&logoColor=white">
- <img src="https://img.shields.io/badge/Robot Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white">
- <img src="https://img.shields.io/badge/Appium-3A76F0?style=for-the-badge&logo=appium&logoColor=white">
+ 
+
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
- <img src="https://img.shields.io/badge/detox-320232?style=for-the-badge&logo=detox&logoColor=white">
  <img src="https://img.shields.io/badge/postman-1997B5&?style=for-the-badge&logo=postman&logoColor=white">
 	
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -64,16 +57,12 @@
  <img src="https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red">
  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"> 
  <img src="https://img.shields.io/badge/Confluence-0052CC?style=for-the-badge&logo=confluence&logoColor=white"> 	
- <img src="https://img.shields.io/badge/TestNG-000000?style=for-the-badge&logo=testng&logoColor=white">
-
  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
  <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white">
  <img src="https://img.shields.io/badge/Jenkins-1997B5&?logo=jenkins&logoColor=white&style=for-the-badge">
  <img src="https://img.shields.io/badge/Docker-0FAAFF?style=for-the-badge&logo=docker&logoColor=white">
- <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
- <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </p>
 	
 <br>
